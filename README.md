@@ -2,6 +2,18 @@
 
 A list of curated privacy to utilise in daily life because Privacy Matters
 
+**📑 Table Of Contents**
+
+1. 🛡️ [Privacy Tools](#privacy-tools)
+2. 🌐 [Browsers](#browsers)
+3. 📱 [Apps](#apps)
+4. 🔒 [Encryption](#encryption)
+5. 🚧 [Firewalls](#firewalls)
+6. 🗝️ [KeePass](#keepass)
+7. 🖥️ [Desktop OS](#desktop-os)
+8. 🚀 [Live OS](#live-os)
+9. 🎭 [Aliasing](#aliasing)
+10. ☁️ [Cloud Storage](#cloud-storage)
 
 **Browsers**
 
