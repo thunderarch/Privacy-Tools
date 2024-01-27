@@ -1,6 +1,6 @@
 **Privacy Tools**
 
-A list of curated privacy to utilise in daily life because Privacy Matters
+A list of curated privacy tools to utilize in daily life because Privacy Matters.
 
 **📑 Table Of Contents**
 
@@ -34,9 +34,9 @@ A list of curated privacy to utilise in daily life because Privacy Matters
 - [GNU Privacy Guard](https://www.gnupg.org/)
 - [Veracrypt](https://www.veracrypt.fr/)
 
-
 **Firewalls**
- [LuLu](https://objective-see.com/products/lulu.html)
+
+- [LuLu](https://objective-see.com/products/lulu.html)
 - [NetGuard](https://github.com/M66B/NetGuard)
 - [Portmaster](https://safing.io/)
 
@@ -58,7 +58,6 @@ A list of curated privacy to utilise in daily life because Privacy Matters
 
 - [TailsOS](https://tails.boum.org/)
 - [Whonix](https://www.whonix.org/)
-
 
 **Aliasing**
 
