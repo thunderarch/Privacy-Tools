@@ -1,4 +1,4 @@
-(# Privacy Tools)
+**(Privacy Tools)**
 
 A list of curated privacy tools to utilize in daily life because Privacy Matters.
 
