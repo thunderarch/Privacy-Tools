@@ -15,13 +15,13 @@ A list of curated privacy tools to utilize in daily life because Privacy Matters
 9. 🎭 [Aliasing](#aliasing)
 10. ☁️ [Cloud Storage](#cloud-storage)
 
-**Browsers**
+###Browsers
 
 - [Tor Browser](https://www.torproject.org/)
 - [LibreWolf](https://librewolf.net/)
 - [Brave](https://brave.com/en-in/)
 
-**Apps**
+###Apps
 
 - [AltStore](https://altstore.io/)
 - [Aurora Store](https://auroraoss.com/)
